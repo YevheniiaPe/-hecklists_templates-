@@ -1,4 +1,7 @@
-# Сhecklists templates and test runs for the demoqa.com website. Manual Software Testing
+# Сhecklists templates and test runs for the demoqa.com website. 
+Manual Software Testing
+
+<img src="Screens/Screen_DemoQA_com.jpg" />
 
 ## Don't forget to give a :star: to make the project popular :) 
 
