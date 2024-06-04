@@ -1,4 +1,3 @@
-# Checklists_templates
 # Сhecklists templates and test runs for the demoqa.com website. Manual Software Testing
 
 ## Don't forget to give a :star: to make the project popular :) 
