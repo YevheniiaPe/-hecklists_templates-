@@ -1,12 +1,22 @@
-# Сhecklists templates and test runs for the demoqa.com website. 
+# Сhecklists template and test run for the demoqa.com website. 
 Manual Software Testing
 
-<img src="Screens/Screen_DemoQA_com.jpg" />
+<img src="Screens/Screen_DemoQA_com.jpg" /> 
 
 ## Don't forget to give a :star: to make the project popular :) 
 
-## :boom: What is it all about?
-This project contains sample checklists for manual testers to help them save time for writing checklists. 
+## :boom: The task and what needs to be done?
+- Write a checklist for the demoqa .com website, covering all the functionality with tests as much as possible. 
+- Make it in an Excel spreadsheet
 
-## :golf: Why was this project created?
-Writing checklists is always a boring and tedious job that takes up most of the time when testing software. That's why I decided to create standard checklists for the functionality that is most often used in software testing using the example of the demoqa.com website, so that everyone can simply download a copy and use it directly in their projects, saving time spent on writing standard checklists.
+ <img src="Screens/Screen_DemoQA_com_1.jpg" />
+ <img src="Screens/Screen_DemoQA_com_2.jpg" /> 
+
+## :bulb: The result:
+- The checklist for the demoqa .com website was written, covering all the functionality with tests as much as possible. 
+- The result was drawn up in an Excel spreadsheet.
+- Wound test was done.
+
+### Test Run result
+<img src="Screens/Checklist_DemoQA_com_Test_Run.jpg" /> 
+
